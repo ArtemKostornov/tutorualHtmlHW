@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.top_logo {
+    margin-top: 40px;
+}
+
+.menu {
+    margin-top: 51px;
+}
+
+.top_text {
+    margin-top: 89px;
+    padding-bottom: 17px;
+}
+
+.top_buttons {
+    margin-top: 37px;
+    padding-bottom: 162px;
+}
+
+.logos_group {
+    margin-top: 97px;
+    padding-bottom: 96px;
+}
+
