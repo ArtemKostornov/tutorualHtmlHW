@@ -148,3 +148,124 @@ a {
     margin-right: 81px;
 }
 
+.up_stock{
+    display: grid;
+    grid-template-columns: repeat(3,381px);
+    justify-content: center;
+    padding-bottom: 100px;
+    padding-top: 100px;
+
+}
+
+.item_stock{
+    height: 291px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.special_stock{
+    background: #FFF;
+    box-shadow: 15px 25px 56px 6px rgba(0, 0, 0, 0.06);
+}
+
+.img_topstock{
+    padding-top: 40px;
+}
+
+.header_stock{
+    padding-top: 25px;
+    padding-bottom: 17px;
+    color: #000;
+    font-family: 'Gilroy-Bold';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.text_stock {
+    padding-bottom: 25px;
+    color: #666;
+    font-family: 'Gilroy-Regular';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.btn_remore{
+    color: #000;
+    font-family: 'Gilroy-Bold';
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    border: none;
+    background-color: #fff;
+}
+.down_stock{
+    background: #FAFAFA;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main_text_stock{
+    padding-top: 92px;
+    color: #000;
+    font-family: 'Gilroy-Bold';
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.down_txt{
+    text-align: center;
+}
+
+.margin{
+    margin-top: 20px;
+}
+
+.box_stock{
+    background: #FAFAFA;
+    display: grid;
+    grid-template-columns: repeat(3,370px);
+    justify-content: center;
+}
+
+.biger_stock{
+    margin-right: 30px;
+    height: 549px;
+    background: #FFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin-bottom: 100px;
+    margin-top: 55px;
+}
+
+.shadow {
+    box-shadow: 15px 25px 60px -5px rgba(0, 0, 0, 0.10);
+}
+
+.btn_lemore{
+    height: 50px;
+    width: 150px;
+    margin-bottom: 50px;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Gilroy-Bold';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    border-radius: 50px;
+    border: none;
+    box-shadow:  4px 4px 8px rgba(242, 88, 34, 0.20);
+    background-color: #F25822;
+    margin-left: 70px;
+}
