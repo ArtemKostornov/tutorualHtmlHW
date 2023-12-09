@@ -269,3 +269,7 @@ a {
     background-color: #F25822;
     margin-left: 70px;
 }
+
+@media(max-width: 1000px){
+    
+}
