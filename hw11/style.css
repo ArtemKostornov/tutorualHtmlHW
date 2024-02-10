@@ -411,60 +411,6 @@ color: #222224;
     border-radius: 30px 0px 0px 30px;
 
 background: #E1E1E1; 
-
-
-/* Rounded Rectangle 5 copy */
-/* 
-position: absolute;
-left: 73.31%;
-right: 20.44%;
-top: 54.24%;
-bottom: 34.82%;
-
-background: #F16D7F; */
-
-
-/* Subscribe */
-
-/* position: absolute;
-left: 73.81%;
-right: 20.88%;
-top: 55.8%;
-bottom: 36.16%;
-
-font-family: 'Lato';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 17px;
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #FFFFFF; */
-
-
-
-/* Enter Your Email */
-
-/* position: absolute;
-left: 58.69%;
-right: 30.69%;
-top: 55.8%;
-bottom: 36.16%;
-
-font-family: 'Lato';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 17px;
-display: flex;
-align-items: center;
-
-color: #222224;
-
-opacity: 0.67; */
-
 }
 
 .email::placeholder{
