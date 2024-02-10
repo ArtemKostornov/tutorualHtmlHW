@@ -404,7 +404,7 @@ color: #222224;
     display: flex;
 }
 
-.email{
+.email_line{
     border-style: none;
     height: 49px;
     width: 256px;
@@ -413,7 +413,7 @@ color: #222224;
 background: #E1E1E1; 
 }
 
-.email::placeholder{
+.email_line::placeholder{
     transform: translateX(10px);
     font-family: 'Lato';
     font-style: normal;
@@ -676,7 +676,7 @@ background: #E1E1E1;
         background: url("img/feedback_mini_backgrnd.png") no-repeat center / cover;
     }
 
-    .email{
+    .email_line{
         width: 70vw;
     }
 
