@@ -587,11 +587,11 @@ background: #E1E1E1;
 @media screen and (max-width: 375px) {
 
     .top{
-        width: 100vw;
+        width: 375px;
     }
 
     .header{
-        width: 100vw;
+        width: 375px;
     }
 
     .log{
@@ -642,6 +642,7 @@ background: #E1E1E1;
     }
 
     .category{
+        width: 375px;
         grid-template-columns: repeat(1, 343px);
         gap: 10px;
     }
@@ -667,10 +668,16 @@ background: #E1E1E1;
     }
 
     .box_content{
-        grid-template-columns: repeat(1, 359px);
+        width: 359px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
     }
 
     .feature{
+        width: 375px;
         flex-direction: column;
         align-items: center;
     }
