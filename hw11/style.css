@@ -586,6 +586,14 @@ background: #E1E1E1;
 
 @media screen and (max-width: 375px) {
 
+    .top{
+        width: 100vw;
+    }
+
+    .header{
+        width: 100vw;
+    }
+
     .log{
         margin-left: 32px;
     }
@@ -596,7 +604,7 @@ background: #E1E1E1;
 
     .mask_menu{
         right: 0;
-        width: 50vw;
+        width: 60vw;
         height: 170vw;
     }
 
